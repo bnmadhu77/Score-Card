@@ -1,0 +1,74 @@
+body
+{
+    text-align: center;
+    margin:0
+}
+.div1
+{
+    width:500px;
+    float:left;
+    height:600px;
+    
+}
+
+.div2
+{
+    width:500px;
+    float:left;
+    height:600px;
+}
+
+#container
+{
+  width: 1000px;
+  margin: auto;
+ 
+}
+.button
+{
+    height: 450px;
+    width: 100%;
+    font-size: 12rem;
+    border:0;
+}
+#but1
+{
+    background-color: gold;
+}
+#but2
+{
+    background-color: red;
+}
+
+.minus
+{
+    font-size: 1.5rem;
+    height:50px;
+    width:50px;
+    border:0px;
+    border-radius:  40px;
+    font-weight: 900;
+    background-color: black;
+    color: white;
+}
+
+.rev
+{
+    margin: 0;
+    background-color:gold ;
+    border-top: 1px solid rgb(5, 5, 5);
+    border-style:none;
+    border-top-style:dashed;
+    border-bottom-style: dashed ;
+    border-width: 2px;
+    text-align: center;
+}
+
+#p1
+{
+    background-color: gold;
+}
+#p2
+{
+    background-color: red;
+}
